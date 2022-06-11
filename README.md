@@ -2,6 +2,7 @@
 
 A demo `Backend App` integrated with `Auth0` as authorization server.
 
+###### :bulb: running command:
 ```zsh
 yarn install && yarn start
 ```
